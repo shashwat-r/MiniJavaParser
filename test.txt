@@ -1,0 +1,64 @@
+import ab.*  ;
+import Gd.ef;
+class X {int jk;
+public static void kl() {}}
+class Yo {
+char jk[5][4];
+boolean kl() {
+if() {}
+if() brel; else brel = 0;
+if() {
+hello;
+if () {
+	return byebye[5];
+	return bye[];
+} else if() return hi; else if() return hello; else return bye;
+} else return help;
+while () System.out.println("hi" + "hello" + 9 + x);
+while () {mek; kjk = 89; break;}
+	    if ((a+b+b==3) && (a-b-c == "\lk lkkj  kll") && ((x-7)||(y-8.6 == 'n'))) { c = 5; }
+
+}
+Nm kl;
+/* opop       */
+/* jil
+lok */
+Jk kl() {}
+// momomomoss
+String kl() {
+}boolean kl() {}
+}
+class Za{
+	Hl		kl;
+		Ga	mn() {
+			}
+		Ll	op() {
+			}
+   }
+class   P extends Po{
+
+
+ Ll[][] Kll, kll=kl, kll = 0, gh.ij=jk.lm.lk().jk();
+ Ll Op(int x, char[] y) {
+   for (int i = 0; i < 10; i ++ ) {
+    switch (x) {
+     case 'c' : oh; boi;
+     default : kill;
+    }
+    
+    try {
+     ghik = 0.9;
+    } catch (Exception1 ex) {
+     hik = 98;
+     System.out.println("exception");
+    } catch (Exception2 ex) {
+     hik = 980;
+     System.out.println("exception2");
+    } catch (Exception3 ex) {
+     hik = 980;
+     System.out.println("exception3");
+    }
+   }
+ }
+}
+eof
